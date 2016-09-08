@@ -1,0 +1,52 @@
+h1{
+	color:red;
+	text-align:center;
+	font-size:60pt;
+} 
+h2{
+	color:white;
+	text-align:center;
+	font-size:60pt;
+}
+h3{color:green;
+	text-align:center;
+	font-size:50pt;
+	
+}
+
+form{
+	margin-left: 180px;
+	
+}
+p{
+	color:white;
+	text-align:center;
+	font-size:35pt;
+	font-family: 'Indie Flower', cursive;
+}
+#container{
+	margin-left:13%;
+	margin-right:13%;
+}
+html{
+	background: #FFFFFF url(toto.jpg) no-repeat center center fixed;
+	min-height:100%;
+	-webkit-background-size:cover;
+		-moz-background-size:cover;
+			-o-background-size:cover;
+				background-size:cover;
+	opacity:1;
+}
+
+span {
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	margin-left:180px;
+}
+
+input{
+	font-size:40px;
+	margin-left: 180px;
+}
